@@ -52,3 +52,11 @@ Copy the HTTPS URL from GitHub (looks like this): https://github.com/your-userna
 Add it as origin: git remote add origin https://github.com/your-username/my-first-repo.git
 
 
+If you see `remote origin already exists`, that is OK. It means it was already added.
+
+---
+
+## Step 5: Push code to GitHub
+
+Check your current branch:
+
