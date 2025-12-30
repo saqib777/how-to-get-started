@@ -97,6 +97,18 @@ Link local repo to GitHub: git remote add origin https://github.com/username/rep
 
 Check remote: git remote -v
 
+---
 
+## Push Code to GitHub
+
+Push current branch: git push -u origin branch-name
+
+Example: git push -u origin master or git push -u origin main
+
+---
+
+## Pull Latest Changes
+
+Get latest changes from remote:
 
 
