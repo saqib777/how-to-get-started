@@ -54,6 +54,36 @@ Files must be added before committing.
 Create a commit with a message: git commit -m "your message here"
 
 
+Good commit messages are short and meaningful.
+
+Example: git commit -m "add login test"
+
+
+---
+
+## View Commit History
+
+See commit history: git log
+
+Short version: git log --oneline
+
+---
+
+## Check Current Branch
+
+See which branch you are on: git branch
+
+
+---
+
+## Create a New Branch
+
+Create and switch to a new branch: git checkout -b feature-login
+
+
+
+
+
 
 
 
