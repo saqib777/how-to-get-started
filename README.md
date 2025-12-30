@@ -1,6 +1,6 @@
 <div align="center">
   
-  # How to Get Started – Tools & Setup Guide
+  # How to Get Started - Tools & Setup Guide
 
 </div>
 
