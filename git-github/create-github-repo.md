@@ -58,5 +58,13 @@ If you see `remote origin already exists`, that is OK. It means it was already a
 
 ## Step 5: Push code to GitHub
 
-Check your current branch:
+Check your current branch: git branch
+
+If it shows `master`, run: git push -u origin master
+
+If it shows `main`, run: git push -u origin main
+
+
+
+
 
