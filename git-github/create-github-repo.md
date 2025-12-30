@@ -38,3 +38,17 @@ This initializes Git in your project.
 Add all files: git add .
 
 Create your first commit: git commit -m "initial commit"
+
+
+If you see *nothing to commit*, it means files were already committed.
+
+---
+
+## Step 4: Add GitHub as remote
+
+Copy the HTTPS URL from GitHub (looks like this): https://github.com/your-username/my-first-repo.git 
+
+
+Add it as origin: git remote add origin https://github.com/your-username/my-first-repo.git
+
+
