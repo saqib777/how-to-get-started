@@ -109,6 +109,6 @@ Example: git push -u origin master or git push -u origin main
 
 ## Pull Latest Changes
 
-Get latest changes from remote:
+Get latest changes from remote: git pull
 
 
