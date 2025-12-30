@@ -81,7 +81,18 @@ See which branch you are on: git branch
 Create and switch to a new branch: git checkout -b feature-login
 
 
+---
 
+## Switch Branches
+
+Switch to an existing branch: git checkout branch-name
+
+
+---
+
+## Add Remote Repository
+
+Link local repo to GitHub:
 
 
 
