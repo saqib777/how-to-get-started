@@ -92,8 +92,10 @@ Switch to an existing branch: git checkout branch-name
 
 ## Add Remote Repository
 
-Link local repo to GitHub:
+Link local repo to GitHub: git remote add origin https://github.com/username/repo-name.git
 
+
+Check remote: git remote -v
 
 
 
