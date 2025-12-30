@@ -100,7 +100,15 @@ Make changes first, then commit again.
 
 ## Final Check
 
-Run:
+Run: git status
+
+
+If it says `working tree clean` and your files are visible on GitHub, setup is complete.
+
+---
+
+This is all you need to create and push a GitHub repository.
+
 
 
 
