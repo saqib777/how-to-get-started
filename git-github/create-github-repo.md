@@ -27,5 +27,14 @@ GitHub will now show you an empty repo page with commands.
 
 Open terminal / command prompt inside your project folder.
 
-Run:
+Run: it init
 
+This initializes Git in your project.
+
+---
+
+## Step 3: Add files and commit
+
+Add all files: git add .
+
+Create your first commit: git commit -m "initial commit"
