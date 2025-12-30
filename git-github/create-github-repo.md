@@ -65,6 +65,44 @@ If it shows `master`, run: git push -u origin master
 If it shows `main`, run: git push -u origin main
 
 
+After this, refresh your GitHub repo page. Your files should be visible.
+
+---
+
+## Common Errors & Fixes
+
+### Error: `src refspec main does not match any`
+
+Cause: Your branch is named `master`, not `main`.
+
+Fix: git push -u origin master
+
+
+---
+
+### Error: `remote origin already exists`
+
+Cause: Remote was already added.
+
+Fix:  
+Ignore it and continue.
+
+---
+
+### Error: `nothing to commit, working tree clean`
+
+Cause: No new changes to commit.
+
+Fix:  
+Make changes first, then commit again.
+
+---
+
+## Final Check
+
+Run:
+
+
 
 
 
