@@ -142,4 +142,12 @@ Fix: pip install selenium
 
 
 
+Make sure virtual environment is activated.
+
+---
+
+### Error: `chromedriver executable needs to be in PATH`
+Fix:
+- Upgrade Selenium:
+
 
