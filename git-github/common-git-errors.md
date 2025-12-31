@@ -131,3 +131,32 @@ git commit -m "resolve merge conflict"
 git rm --cached filename
 git commit -m "remove file from tracking"
 
+
+---
+
+## Error: Want to undo last commit (not pushed)
+
+### Fix: git reset --soft HEAD~1
+
+
+This keeps your changes but removes the commit.
+
+---
+
+## Error: Want to discard all local changes
+
+### WARNING
+This deletes uncommitted work.
+
+### Fix: git reset --hard
+
+
+
+---
+
+## Quick Recovery Commands (Bookmark These)
+
+git status
+git branch
+git log --oneline
+git remote -v
