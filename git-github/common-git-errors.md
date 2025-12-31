@@ -44,7 +44,20 @@ Check existing remotes: git remote -v
 
 If correct, do nothing and continue.
 
-If wrong, remove and add again:
+If wrong, remove and add again: git remote remove origin
+git remote add origin <repo-url>
+
+
+---
+
+## Error: `fatal: not a git repository`
+
+### What it means
+Git is not initialized in the current folder.
+
+### Fix
+Navigate to the correct project folder and run:
+
 
 
 
