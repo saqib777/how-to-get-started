@@ -12,3 +12,12 @@ Follow the steps in order. Do not skip.
 ### Check if Python is installed
 Open terminal / command prompt and run: python --version
 
+or 
+
+python3 --version
+
+
+If Python is not installed:
+1. Go to https://www.python.org/downloads/
+2. Download the latest Python 3 version
+3. During installation, **check the box**:
