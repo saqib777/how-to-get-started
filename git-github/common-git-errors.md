@@ -118,7 +118,8 @@ Git cannot automatically merge changes.
 ### Fix
 1. Open the conflicted file
 2. Resolve the conflict manually
-3. Then run:
+3. Then run: git add .
+git commit -m "resolve merge conflict"
 
 
 
