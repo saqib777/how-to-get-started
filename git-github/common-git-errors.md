@@ -14,3 +14,13 @@ There are no new changes to commit.
 Make changes to a file first, then run: git add .
 git commit -m "your message"
 
+
+---
+
+## Error: `src refspec main does not match any`
+
+### What it means
+You are trying to push a branch that does not exist locally.
+
+### Fix
+Check your branch: git branch
