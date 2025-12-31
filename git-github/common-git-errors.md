@@ -160,3 +160,19 @@ git status
 git branch
 git log --oneline
 git remote -v
+
+
+These commands solve 80% of Git confusion.
+
+---
+
+## Final Advice
+
+If Git feels confusing:
+- Always run `git status`
+- Read the message carefully
+- Do not panic
+- Git almost always tells you what to do
+
+This guide covers the most common Git problems you will face.
+
