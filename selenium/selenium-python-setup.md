@@ -21,3 +21,16 @@ If Python is not installed:
 1. Go to https://www.python.org/downloads/
 2. Download the latest Python 3 version
 3. During installation, **check the box**:
+
+Add Python to PATH
+
+  
+Verify again after installation.
+
+---
+
+## Step 2: Create a Project Folder
+
+Create a new folder anywhere on your system.
+
+Example:
