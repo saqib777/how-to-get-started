@@ -12,4 +12,4 @@ Follow the steps in order.
 Playwright requires Node.js.
 
 ### Check if Node.js is installed
-Run: node --version
+Run: node --version and npm --version
