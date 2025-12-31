@@ -128,5 +128,6 @@ git commit -m "resolve merge conflict"
 
 ### Fix (keep file locally, remove from Git)
 
-
+git rm --cached filename
+git commit -m "remove file from tracking"
 
