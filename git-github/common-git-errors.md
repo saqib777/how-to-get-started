@@ -59,5 +59,39 @@ Git is not initialized in the current folder.
 Navigate to the correct project folder and run:
 
 
+---
+
+## Error: `fatal: not a git repository`
+
+### What it means
+Git is not initialized in the current folder.
+
+### Fix
+Navigate to the correct project folder and run: git init
+
+
+---
+
+## Error: `fatal: refusing to merge unrelated histories`
+
+### What it means
+Local and remote repositories were created separately.
+
+### Fix
+Force merge histories: git pull origin main --allow-unrelated-histories
+
+
+Then resolve conflicts if any and commit.
+
+---
+
+## Error: `permission denied (publickey)` (SSH)
+
+### What it means
+SSH key is not set up or not linked to GitHub.
+
+### Quick Fix
+Use HTTPS instead of SSH:
+
 
 
