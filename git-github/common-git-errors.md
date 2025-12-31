@@ -166,7 +166,7 @@ These commands solve 80% of Git confusion.
 
 ---
 
-## Final Advice
+## Note
 
 If Git feels confusing:
 - Always run `git status`
