@@ -24,3 +24,27 @@ You are trying to push a branch that does not exist locally.
 
 ### Fix
 Check your branch: git branch
+
+If it shows `master`, push using: git push -u origin master
+
+
+If it shows `main`, push using: git push -u origin main
+
+
+---
+
+## Error: `remote origin already exists`
+
+### What it means
+The remote repository is already added.
+
+### Fix
+Check existing remotes: git remote -v
+
+
+If correct, do nothing and continue.
+
+If wrong, remove and add again:
+
+
+
