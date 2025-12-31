@@ -71,5 +71,40 @@ Install Selenium using pip: pip install selenium
 Verify installation: pip show selenium
 
 
+---
+
+## Step 5: Install a Browser (Chrome)
+
+Make sure **Google Chrome** is installed.
+
+Check version:
+1. Open Chrome
+2. Go to `chrome://settings/help`
+3. Note the version number
+
+---
+
+## Step 6: ChromeDriver Setup (Modern Way)
+
+You **do NOT need to manually download ChromeDriver** anymore.
+
+Selenium automatically manages the driver if:
+- Chrome is installed
+- Selenium version is recent
+
+This avoids 90% of setup issues.
+
+---
+
+## Step 7: Create First Selenium Script
+
+Create a file: test_sample.py
+
+
+Add this code:
+
+
+
+
 
 
