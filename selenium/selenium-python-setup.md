@@ -33,4 +33,4 @@ Verify again after installation.
 
 Create a new folder anywhere on your system.
 
-Example:
+Example: selenium-python-project
