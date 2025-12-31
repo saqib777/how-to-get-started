@@ -122,4 +122,11 @@ Git cannot automatically merge changes.
 git commit -m "resolve merge conflict"
 
 
+---
+
+## Error: Accidentally committed a file
+
+### Fix (keep file locally, remove from Git)
+
+
 
