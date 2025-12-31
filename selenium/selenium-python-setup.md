@@ -122,7 +122,24 @@ driver.quit()
 
 ## Step 8: Run the Script
 
-Run:
+Run: python test_sample.py
+
+
+Expected result:
+- Chrome opens
+- Google loads
+- Page title prints in terminal
+- Browser closes
+
+If this works, Selenium is set up correctly.
+
+---
+
+## Common Errors & Fixes
+
+### Error: `selenium is not recognized`
+Fix: pip install selenium
+
 
 
 
