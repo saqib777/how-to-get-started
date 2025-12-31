@@ -118,4 +118,11 @@ driver.quit()
 ```
 
 
+---
+
+## Step 8: Run the Script
+
+Run:
+
+
 
