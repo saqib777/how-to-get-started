@@ -10,5 +10,5 @@ Follow the steps in order. Do not skip.
 ## Step 1: Install Python
 
 ### Check if Python is installed
-Open terminal / command prompt and run:
+Open terminal / command prompt and run: python --version
 
