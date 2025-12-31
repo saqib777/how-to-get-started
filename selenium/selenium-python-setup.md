@@ -164,7 +164,26 @@ Fix:
 ### Error: Browser opens and closes immediately
 Fix:
 This is normal if the script finishes execution.
-Add a temporary wait if needed:
+
+Add a temporary wait if needed: 
+---
+
+## Recommended Next Steps
+
+- Learn explicit waits
+- Use Pytest for test execution
+- Apply Page Object Model
+- Avoid time.sleep()
+
+---
+
+## Final Note
+
+If Selenium setup works once, it will keep working.
+Most problems come from skipped steps or mismatched versions.
+
+This guide covers the cleanest and safest setup path.
+
 
 
 
