@@ -91,7 +91,19 @@ Then resolve conflicts if any and commit.
 SSH key is not set up or not linked to GitHub.
 
 ### Quick Fix
-Use HTTPS instead of SSH:
+Use HTTPS instead of SSH: git remote set-url origin https://github.com/username/repo.git**  
+
+
+---
+
+## Error: `updates were rejected because the remote contains work`
+
+### What it means
+Remote has commits that your local branch does not have.
+
+### Fix
+Pull first:
+
 
 
 
