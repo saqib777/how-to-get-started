@@ -29,8 +29,47 @@ Verify again after installation.
 
 ---
 
+
+Open terminal inside this folder.
+
+---
+
+
 ## Step 2: Create a Project Folder
 
 Create a new folder anywhere on your system.
 
 Example: selenium-python-project
+
+
+Open terminal inside this folder.
+
+---
+
+## Step 3: Create a Virtual Environment (Recommended)
+
+Create virtual environment: python -m venv venv
+
+Activate it:
+
+### On Windows: venv\Scripts\activate
+
+### On macOS / Linux
+
+source venv/bin/activate  
+
+
+You should now see `(venv)` in your terminal.
+
+---
+
+## Step 4: Install Selenium
+
+Install Selenium using pip: pip install selenium
+
+
+Verify installation: pip show selenium
+
+
+
+
