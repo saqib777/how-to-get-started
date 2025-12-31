@@ -149,5 +149,23 @@ Make sure virtual environment is activated.
 ### Error: `chromedriver executable needs to be in PATH`
 Fix:
 - Upgrade Selenium:
+  
+Make sure virtual environment is activated.
+
+---
+
+### Error: `chromedriver executable needs to be in PATH`
+Fix:
+- Upgrade Selenium: pip install --upgrade selenium
+
+  
+---
+
+### Error: Browser opens and closes immediately
+Fix:
+This is normal if the script finishes execution.
+Add a temporary wait if needed:
+
+
 
 
