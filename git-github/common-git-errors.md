@@ -108,5 +108,17 @@ Pull first: git pull origin main
 Then push again: git push
 
 
+---
+
+## Error: `merge conflict`
+
+### What it means
+Git cannot automatically merge changes.
+
+### Fix
+1. Open the conflicted file
+2. Resolve the conflict manually
+3. Then run:
+
 
 
