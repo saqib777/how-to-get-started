@@ -102,7 +102,10 @@ Use HTTPS instead of SSH: git remote set-url origin https://github.com/username/
 Remote has commits that your local branch does not have.
 
 ### Fix
-Pull first:
+Pull first: git pull origin main
+
+
+Then push again: git push
 
 
 
