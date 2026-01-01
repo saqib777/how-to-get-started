@@ -1,4 +1,4 @@
-# Cypress – Installation & First Test (From Scratch)
+# Cypress - Installation & First Test (From Scratch)
 
 This guide shows how to install Cypress and run your first test.
 It assumes no prior Cypress setup.
