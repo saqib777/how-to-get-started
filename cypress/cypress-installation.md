@@ -117,3 +117,75 @@ If it passes, Cypress setup is complete.
 
 ### Error: Cypress failed to start
 Fix: npx cypress install
+
+
+---
+
+### Error: `node is not recognized`
+Fix:
+- Reinstall Node.js
+- Restart terminal
+
+---
+
+### Error: Permission issues (Linux/macOS)
+Fix: sudo npm install cypress --save-dev
+
+
+---
+
+## Recommended Next Steps
+
+- Learn Cypress commands (`cy.get`, `cy.contains`)
+- Understand Cypress test runner UI
+- Explore fixtures and intercepts
+- Avoid using Cypress like Selenium
+
+---
+
+## Final Note
+
+Cypress is opinionated by design.
+If you follow the setup flow once, it stays stable.
+
+This guide covers the cleanest path to get started.
+
+
+---
+
+## Recommended Next Steps
+
+- Learn Cypress commands (`cy.get`, `cy.contains`)
+- Understand Cypress test runner UI
+- Explore fixtures and intercepts
+- Avoid using Cypress like Selenium
+
+---
+
+## Final Note
+
+Cypress is opinionated by design.
+If you follow the setup flow once, it stays stable.
+
+This guide covers the cleanest path to get started.
+
+
+
+---
+
+## Recommended Next Steps
+
+- Learn Cypress commands (`cy.get`, `cy.contains`)
+- Understand Cypress test runner UI
+- Explore fixtures and intercepts
+- Avoid using Cypress like Selenium
+
+---
+
+## Final Note
+
+Cypress is opinionated by design.
+If you follow the setup flow once, it stays stable.
+
+This guide covers the cleanest path to get started.
+
