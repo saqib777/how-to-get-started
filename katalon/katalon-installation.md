@@ -1,4 +1,4 @@
-# Katalon Studio – Installation & First Test (From Scratch)
+# Katalon Studio - Installation & First Test (From Scratch)
 
 This guide shows how to download, install, and run your first test in Katalon Studio.
 It assumes no prior Katalon setup.
@@ -34,5 +34,5 @@ You may be asked to sign in or create a free Katalon account.
 ### On Linux
 - Extract the downloaded file
 - Open terminal in the extracted folder
-- Run:
+- Run: ./katalon
 
