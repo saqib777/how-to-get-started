@@ -137,5 +137,14 @@ If no interpreter appears:
 
 1. Go to: File → Preferences → Settings
 2. Search for: format on save
-3. format on save
+3. Enable **Format On Save**
+
+This keeps your code clean automatically.
+
+---
+
+## Step 7: Verify Git Integration
+
+Open terminal inside VS Code: Ctrl + `
+Run: git status
 
