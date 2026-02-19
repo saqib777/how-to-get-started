@@ -168,3 +168,51 @@ project/
 ├── requirements.txt
 └── pytest.ini
 
+
+Keeping a clean structure prevents long-term confusion.
+
+---
+
+## Common Issues & Fixes
+
+### Python not detected
+Fix:
+- Install Python
+- Restart VS Code
+- Select interpreter manually
+
+---
+
+### Extensions not working
+Fix:
+- Restart VS Code
+- Update extension
+- Reload window (Ctrl + Shift + P → Reload Window)
+
+---
+
+### Terminal not opening
+Fix:
+- Check default shell
+- Update VS Code
+- Reinstall if required
+
+---
+
+## Recommended Next Steps
+
+- Learn keyboard shortcuts
+- Use integrated terminal instead of external one
+- Use Git inside VS Code
+- Enable linting and formatting
+
+---
+
+## Final Note
+
+VS Code is lightweight but powerful.
+If configured correctly once, it becomes your primary automation workspace.
+
+This guide covers everything you need to start clean.
+
+
