@@ -147,4 +147,24 @@ This keeps your code clean automatically.
 
 Open terminal inside VS Code: Ctrl + `
 Run: git status
+If this works, Git integration is successful.
+
+You can also:
+- Stage files from the Source Control tab
+- Commit changes directly inside VS Code
+
+---
+
+## Step 8: Recommended Folder Structure for Automation
+
+For Python Selenium framework:
+
+project/
+│
+├── tests/
+├── pages/
+├── drivers/
+├── utils/
+├── requirements.txt
+└── pytest.ini
 
