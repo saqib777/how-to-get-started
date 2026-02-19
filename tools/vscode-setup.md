@@ -1,5 +1,5 @@
 
-# VS Code – Installation & Setup for Automation (From Scratch)
+# VS Code - Installation & Setup for Automation (From Scratch)
 
 This guide shows how to install and properly configure Visual Studio Code (VS Code) for automation projects.
 
