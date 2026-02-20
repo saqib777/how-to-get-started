@@ -18,3 +18,9 @@ Your Chrome browser version does not match ChromeDriver version.
 
 ### Fix (Modern Selenium)
 Upgrade Selenium:
+
+pip install --upgrade selenium
+
+Selenium now auto-manages drivers.
+
+Restart your script.
