@@ -16,3 +16,8 @@ Cypress is a modern JavaScript-based end-to-end testing framework used to test w
 ```bash
 npm init -y
 npm install cypress --save-dev
+```
+
+Open Cypress
+
+npx cypress open
