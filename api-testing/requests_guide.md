@@ -114,7 +114,7 @@ r = requests.get(url, params={"api_key": "your_key"})
 
 ---
 
-## Sessions — Reuse Connections
+## Sessions - Reuse Connections
 
 ```python
 # Sessions persist cookies and headers across requests
