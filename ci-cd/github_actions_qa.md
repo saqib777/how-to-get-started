@@ -1,4 +1,4 @@
-# GitHub Actions for QA — Complete Guide
+# GitHub Actions for QA - Complete Guide
 
 How to automatically run your tests on every push using GitHub Actions.
 No servers to maintain — completely free for public repos.
@@ -73,7 +73,7 @@ Download it from the Actions tab on GitHub after each run.
 
 ---
 
-## Matrix Testing — Multiple Python Versions
+## Matrix Testing - Multiple Python Versions
 
 ```yaml
     strategy:
@@ -139,6 +139,6 @@ on:
 4. Download artifacts (screenshots, reports) if configured
 
 Common failures:
-- Missing `requirements.txt` — run `pip freeze > requirements.txt` locally
-- Import errors — check your module paths
-- Timeout — add `timeout-minutes: 10` to the job
+- Missing `requirements.txt` - run `pip freeze > requirements.txt` locally
+- Import errors - check your module paths
+- Timeout - add `timeout-minutes: 10` to the job
