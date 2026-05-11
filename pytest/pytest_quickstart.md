@@ -1,4 +1,4 @@
-# pytest Quickstart — From Zero to Running Tests
+# pytest Quickstart - From Zero to Running Tests
 
 The fastest path to writing and running your first Python tests.
 
