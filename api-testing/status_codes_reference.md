@@ -1,10 +1,10 @@
-# HTTP Status Codes — Complete Reference for Testers
+# HTTP Status Codes - Complete Reference for Testers
 
 Every status code you will encounter in API testing.
 
 ---
 
-## 2xx — Success
+## 2xx - Success
 
 | Code | Name | When You See It |
 |------|------|-----------------|
@@ -22,7 +22,7 @@ assert response.json()["id"] is not None
 
 ---
 
-## 3xx — Redirection
+## 3xx - Redirection
 
 | Code | Name | When You See It |
 |------|------|-----------------|
