@@ -1,4 +1,4 @@
-# Selenium Waits — The Complete Guide
+# Selenium Waits - The Complete Guide
 
 Waits are the most common source of flaky tests.
 This guide explains every type and when to use each.
